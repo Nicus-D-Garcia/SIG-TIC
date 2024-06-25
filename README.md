@@ -3,4 +3,4 @@ The library "morfocuenca" contains two functions. The first function, "cuencaSta
 
 Note: The script only works with the SAGA plugin and library installed in QGIS; it is recommended to ensure this requirement is met.
 
-Download webmap to see or clink this link to see ==> https://nicus-d-garcia.github.io/SIG-TIC/
+To see the Webmap, donwload "Webmap" folder or click this link ==> https://nicus-d-garcia.github.io/SIG-TIC/
